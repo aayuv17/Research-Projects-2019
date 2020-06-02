@@ -81,3 +81,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] Stock Data Analysis [Machine Learning]
 - Rohan Nolan Lasrado, May 2020
+
+- [x] Malware Analysis [Machine Learning/Network Security]
+- Aayushi Varma, June 2020
